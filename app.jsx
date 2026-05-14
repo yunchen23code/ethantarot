@@ -1,4 +1,4 @@
-/* global React, ReactDOM, CardBackArt, MoonStrip, CornerFlourish, FooterOrnament, Pentagram, StaggeredMoonBig */
+/* global React, ReactDOM, CardBackArt, CardBackSimple, MoonStrip, CornerFlourish, FooterOrnament, Pentagram, StaggeredMoonBig */
 const { useState, useEffect, useRef, useCallback } = React;
 
 // ---------- Tweak defaults ----------
@@ -169,7 +169,7 @@ function FanDeck({ cards, onPick, picked, shuffleKey }) {
             aria-label={`Card ${i + 1}: ${card.name}`}
           >
             <div className="fan-card-inner">
-              <CardBackArt />
+              <CardBackSimple />
             </div>
           </button>
         );

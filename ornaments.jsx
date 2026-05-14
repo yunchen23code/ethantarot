@@ -197,6 +197,23 @@ const CardBackArt = () => (
   </svg>
 );
 
+// Lightweight card back for the 78-card fan (tiny, performance-critical)
+// Single shared SVG, no patterns/gradients/many paths.
+const CardBackSimple = () => (
+  <svg viewBox="0 0 100 150" preserveAspectRatio="xMidYMid slice"
+       style={{ width: '100%', height: '100%', display: 'block', background: '#1a1130' }}>
+    <rect x="3" y="3" width="94" height="144" fill="none" stroke="#d8b15c" strokeWidth="0.6" opacity="0.8"/>
+    <rect x="6" y="6" width="88" height="138" fill="none" stroke="#c8d0e4" strokeWidth="0.3" opacity="0.45"/>
+    {/* small pentagram center */}
+    <g transform="translate(50 75)">
+      <circle r="14" fill="none" stroke="#d8b15c" strokeWidth="0.4" opacity="0.7"/>
+      <path d="M 0 -12 L 7.05 9.7 L -11.4 -3.7 L 11.4 -3.7 L -7.05 9.7 Z"
+            fill="none" stroke="#d8b15c" strokeWidth="0.5" opacity="0.9"/>
+      <circle r="1.4" fill="#d8b15c"/>
+    </g>
+  </svg>
+);
+
 const StaggeredMoonBig = () => (
   <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" strokeWidth="0.5" aria-hidden="true">
     <circle cx="20" cy="20" r="14" opacity="0.5"/>
@@ -204,4 +221,4 @@ const StaggeredMoonBig = () => (
   </svg>
 );
 
-Object.assign(window, { Phase, MoonStrip, CornerFlourish, FooterOrnament, Pentagram, CardBackArt, StaggeredMoonBig });
+Object.assign(window, { Phase, MoonStrip, CornerFlourish, FooterOrnament, Pentagram, CardBackArt, CardBackSimple, StaggeredMoonBig });
