@@ -2,391 +2,391 @@ window.TAROT_CARDS = [
   {
     "name": "寶劍一",
     "img": "https://i.imgur.com/f7FLOBw.png",
-    "description": "用一個新的觀點、想法或計畫來突破現狀。"
+    "description": "繼續用老方法只會得到老結果，換個腦袋想，你會發現世界還蠻大的。"
   },
   {
     "name": "寶劍二",
     "img": "https://i.imgur.com/ew774ew.png",
-    "description": "靜下心來，聽聽內心的聲音，什麼是自己真的想要的呢？"
+    "description": "手機放一邊，眼睛閉起來，你其實早就知道答案了，只是一直在假裝不知道。"
   },
   {
     "name": "寶劍三",
     "img": "https://i.imgur.com/ieow8Dd.png",
-    "description": "當有悲傷的情緒時，可以想想過去是否有相同的經驗，導致有這樣的情緒呢？"
+    "description": "這個情緒感覺有點熟悉？沒錯，是老朋友又來了，跟它打個招呼再送它走吧。"
   },
   {
     "name": "寶劍四",
     "img": "https://i.imgur.com/ZRN6oyg.png",
-    "description": "暫時停止頭腦的思考，靜下心來好好休息吧！"
+    "description": "今天的你不需要解決任何問題，你最重要的任務就是好好躺著。"
   },
   {
     "name": "寶劍五",
     "img": "https://i.imgur.com/s12Vm0a.png",
-    "description": "意見不同的時候，也尊重對方的想法，能把傷害降到最低。"
+    "description": "贏得爭論卻輸了關係，這筆帳不太划算，稍微讓一步又不會怎樣。"
   },
   {
     "name": "寶劍六",
     "img": "https://i.imgur.com/f01tYoV.png",
-    "description": "放下過去的包袱，耐心往前移動，將會開啟新的旅程。"
+    "description": "那些拖著你的東西，其實沒有你想的那麼重要，放手，然後繼續走。"
   },
   {
     "name": "寶劍七",
     "img": "https://i.imgur.com/V7KPpyZ.png",
-    "description": "用誠信的態度面對自己或是他人。"
+    "description": "跟別人耍小聰明之前，先確認你有沒有在跟自己耍小聰明。"
   },
   {
     "name": "寶劍八",
     "img": "https://i.imgur.com/DO9plmL.png",
-    "description": "沒有人困住你，只有你自己困住你自己，要相信自己可以走出目前的僵局。"
+    "description": "你說你被困住了，但門其實沒鎖，是你自己站在那不肯動。"
   },
   {
     "name": "寶劍九",
     "img": "https://i.imgur.com/FUWDgVp.png",
-    "description": "目前的擔憂，很可能是自己給自己的壓力，靜下心來好好釐清吧！"
+    "description": "你昨晚想的那些災難劇情，有幾個真的發生了？對，所以先睡覺。"
   },
   {
     "name": "寶劍十",
     "img": "https://i.imgur.com/P9sDRWR.png",
-    "description": "最糟的狀況也就這樣，你可以從這一切的時間中，學到什麼才是真正的禮物。"
+    "description": "最糟糕的已經過去了，接下來只會更好，雖然現在看起來不太像。"
   },
   {
     "name": "權杖一",
     "img": "https://i.imgur.com/mNR0ilx.png",
-    "description": "把熱情拿出來，去創造新的可能性。"
+    "description": "那個一直想做但沒做的事，今天就是最好的時機，不然你還要等幾年？"
   },
   {
     "name": "權杖二",
     "img": "https://i.imgur.com/ukBMso3.png",
-    "description": "做選擇前要評估一下是否有風險，目前還有一些不明朗。"
+    "description": "衝動是魔鬼，但猶豫太久也是魔鬼，先把資訊搞清楚再說。"
   },
   {
     "name": "權杖三",
     "img": "https://i.imgur.com/Tf3Eq7g.png",
-    "description": "你已經有一定的基礎，是時候執行新的計畫了，對未來的發展是有幫助的。"
+    "description": "你已經打好底了，現在不是懷疑自己的時候，是往前踩油門的時候。"
   },
   {
     "name": "權杖四",
     "img": "https://i.imgur.com/hj8PMUx.png",
-    "description": "今天可以跟家人、同事或好友一起開心吃飯聚會，是最好的充電！"
+    "description": "今天找個你喜歡的人一起吃頓飯，不談正事，就是聊天笑笑，這很重要。"
   },
   {
     "name": "權杖五",
     "img": "https://i.imgur.com/9eiQffM.png",
-    "description": "面對競爭激烈時，要保持冷靜沈著應對，就能找到解決辦法。"
+    "description": "大家都在搶，先深呼吸，冷靜的人才能看到別人看不到的缺口。"
   },
   {
     "name": "權杖六",
     "img": "https://i.imgur.com/0kgcwAP.png",
-    "description": "跟一樣志同道合的人朝共同的夢想前進，會有好的收穫。"
+    "description": "一個人走得快，一群人走得遠，找到跟你同頻的人，一起去。"
   },
   {
     "name": "權杖七",
     "img": "https://i.imgur.com/4GQb00g.png",
-    "description": "只要你加倍努力，就能克服重重困難與挑戰，贏得勝利。"
+    "description": "很難，但你沒說不行，繼續撐，勝利通常在你快放棄的那一步之後。"
   },
   {
     "name": "權杖八",
     "img": "https://i.imgur.com/u0lmsKU.png",
-    "description": "目標出現時，要及時把握機會，快速進行或執行。"
+    "description": "機會出現的時候不會先發通知，看到了就動，等一等可能就沒了。"
   },
   {
     "name": "權杖九",
     "img": "https://i.imgur.com/aKjGhxb.png",
-    "description": "停下腳步，看看過去錯誤的經驗帶來的警惕，不要犯一樣的錯誤。"
+    "description": "上次的教訓不是來折磨你的，是來提醒你不要再踩同一個坑。"
   },
   {
     "name": "權杖十",
     "img": "https://i.imgur.com/8GWPbXO.png",
-    "description": "不要把全部的事都攬在自己身上。"
+    "description": "你不是超人，也沒有義務假裝自己是，把一些事情分出去不是示弱。"
   },
   {
     "name": "聖杯一",
     "img": "https://i.imgur.com/11nDizC.png",
-    "description": "當愛別人的同時，別忘記把給愛自己。"
+    "description": "對別人好是美德，但如果連自己都排在最後，那就有點說不過去了。"
   },
   {
     "name": "聖杯二",
     "img": "https://i.meee.com.tw/oBh8dvv.png",
-    "description": "滿足對方想要的，才能有共識，關係就更爲緊密。"
+    "description": "真正的共識不是一方委屈，你說你要什麼，對方才有機會給你。"
   },
   {
     "name": "聖杯三",
     "img": "https://i.imgur.com/FkUfuU3.png",
-    "description": "放鬆心情，開心找朋友玩樂，是最好的充電方式。"
+    "description": "今天不需要理由，就是找朋友出去玩，身體和靈魂都需要這種充電。"
   },
   {
     "name": "聖杯四",
     "img": "https://i.imgur.com/mNVbIeg.png",
-    "description": "意興闌珊的你，可以打破現狀，將會帶給你新的感受與滿足。"
+    "description": "你那個「還好」的狀態已經維持很久了，去戳一下不一樣的東西看看。"
   },
   {
     "name": "聖杯五",
     "img": "https://i.imgur.com/nHKowWT.png",
-    "description": "不要只看失去的部分，轉過身你還有很多資源等著你。"
+    "description": "盯著已經打翻的杯子沒有意義，轉個身，後面還有三杯好好站著。"
   },
   {
     "name": "聖杯六",
     "img": "https://i.imgur.com/58mdvt6.png",
-    "description": "今天可以去關心老朋友、老同學，透過情感的交流豐富彼此的心靈。"
+    "description": "傳一則訊息給很久沒聯絡的老朋友，就說「最近怎樣」，比你想的有用。"
   },
   {
     "name": "聖杯七",
     "img": "https://i.imgur.com/GvuiBtj.png",
-    "description": "不要衝動做出決定，看似美好，不見得是真正需要的。"
+    "description": "那個看起來超完美的選項，仔細看一下有沒有你沒注意到的附加條款。"
   },
   {
     "name": "聖杯八",
     "img": "https://i.imgur.com/ZGY9ark.png",
-    "description": "帶著勇氣往新的方向前進，你將會有意想不到的收穫。"
+    "description": "離開一個讓你一直原地踏步的地方，不是背叛，是對自己負責。"
   },
   {
     "name": "聖杯九",
     "img": "https://i.imgur.com/kCFkIlG.png",
-    "description": "來點小確幸，今天放鬆好好愛自己，做自己喜歡的事。"
+    "description": "今天就是要寵自己，那個一直說「等有空再說」的事，現在就去做。"
   },
   {
     "name": "聖杯十",
     "img": "https://i.imgur.com/bos4ZCP.png",
-    "description": "融入家人或是團隊的懷抱，會有意想不到的溫暖。"
+    "description": "你身邊的那些人，有時候比你想的更需要你，主動靠近一下又怎樣。"
   },
   {
     "name": "金幣一",
     "img": "https://i.imgur.com/uwaHf5P.png",
-    "description": "規劃自己近期的理財計畫，只要開始就會有好的結果。"
+    "description": "錢的事不管再小都值得認真對待，計畫從今天開始寫，不然只是在腦袋裡轉。"
   },
   {
     "name": "金幣二",
     "img": "https://i.imgur.com/jX4QEF5.png",
-    "description": "現況還有一些不穩定，不要急著做決定。"
+    "description": "現在局面還沒穩，不用急著下結論，多觀察一下比較不容易翻車。"
   },
   {
     "name": "金幣三",
     "img": "https://i.imgur.com/ZuMA5BC.png",
-    "description": "善用團隊的力量，透過跟同事溝通，能學習寶貴的經驗。"
+    "description": "一個人硬撐不如開口問，跟對的人學一件事，可以少走很多冤枉路。"
   },
   {
     "name": "金幣四",
     "img": "https://i.imgur.com/m00QIm5.png",
-    "description": "可以檢視目前的現況，如何更安全謹慎地規劃下一步。"
+    "description": "先把現在擁有的盤一盤，再想下一步，亂衝之前至少知道自己有幾條命。"
   },
   {
     "name": "金幣五",
     "img": "https://i.imgur.com/Muz0T56.png",
-    "description": "目前資源匱乏，該正視目前窘境，不能再用同樣方式面對，是時候該改變了。"
+    "description": "現在的方法明顯行不通了，繼續撐著只是浪費時間，是時候換個玩法。"
   },
   {
     "name": "金幣六",
     "img": "https://i.imgur.com/6xbLgZl.png",
-    "description": "今天去做一件好事，種善種子會有意想不到的收穫。"
+    "description": "今天做一件對別人有幫助的小事，不求回報，但好事會以你意想不到的方式繞回來。"
   },
   {
     "name": "金幣七",
     "img": "https://i.imgur.com/XIjqvxa.png",
-    "description": "好好善用既有的資源，耐心等待，持續努力，最終會有好的成果。"
+    "description": "你種下的東西還沒到收成的時候，急也沒用，繼續澆水就對了。"
   },
   {
     "name": "金幣八",
     "img": "https://i.imgur.com/i27ohUf.png",
-    "description": "找一件你很想做的事，認真地把它做好，當你夠專注認真，這會是你很棒的成功經驗。"
+    "description": "挑一件你真的想做好的事，然後認真做，不用多，一件就夠讓你今天有成就感。"
   },
   {
     "name": "金幣九",
     "img": "https://i.imgur.com/8lV9G0f.png",
-    "description": "今天好好裝扮自己，展現從容自若的姿態，必招好運。"
+    "description": "今天好好打理自己的狀態，外在整理好，內在也會跟著穩一點。"
   },
   {
     "name": "金幣十",
     "img": "https://i.imgur.com/SaSQn30.png",
-    "description": "當你都覺得一切美好時，也要關心旁邊人的感受。"
+    "description": "你過得不錯，但別忘了看看旁邊的人，有時候你一個小動作對別人來說很大。"
   },
   {
     "name": "寶劍侍衛",
     "img": "https://i.imgur.com/NSfpOvB.png",
-    "description": "敞開心接受新的知識訊息，會有一些新的發現。"
+    "description": "保持好奇心，新的資訊可能正在某個你沒注意的地方等你去撿。"
   },
   {
     "name": "寶劍騎士",
     "img": "https://i.imgur.com/VlWLjFU.png",
-    "description": "勇往直前時，仍須保持理性判斷，以免失誤。"
+    "description": "勇往直前很好，但沖太快容易撞牆，記得用腦子配合你的速度。"
   },
   {
     "name": "寶劍皇后",
     "img": "https://i.imgur.com/WzSK5mf.png",
-    "description": "理性的判斷力，做出正確的決策，用柔性的方法表達。"
+    "description": "想清楚再說話，把話說得有力度又不傷人，是今天的隱藏成就。"
   },
   {
     "name": "寶劍國王",
     "img": "https://i.imgur.com/bHDkPD9.png",
-    "description": "理性的思維、權威的個性，做出果斷的決策。"
+    "description": "現在需要的是清醒的腦袋和果斷的判斷，情緒先收起來，事情再說。"
   },
   {
     "name": "權杖侍衛",
     "img": "https://i.imgur.com/5XPbZuW.png",
-    "description": "保持樂觀好奇心，隨時準備迎接新的機會。"
+    "description": "用新鮮的眼光看今天，就算是走過一百次的路，說不定也有新發現。"
   },
   {
     "name": "權杖騎士",
     "img": "https://i.imgur.com/PkNoxOS.png",
-    "description": "讓我們展現熱情，全力以赴，馬上行動。"
+    "description": "熱情是你最強的武器，現在就出發，等準備好再行動是個溫柔的謊言。"
   },
   {
     "name": "權杖皇后",
     "img": "https://i.imgur.com/K1qYDEX.png",
-    "description": "用溫暖陽光的性格，對待今天跟你接觸的每一個人。"
+    "description": "你的溫暖是真實力，今天遇到的人，都值得你對他們好一點。"
   },
   {
     "name": "權杖國王",
     "img": "https://i.imgur.com/XTabuVm.png",
-    "description": "目標明確，展現領導的活力與魅力。"
+    "description": "你知道自己要去哪，現在就是帶著這股確定感往前走的時候。"
   },
   {
     "name": "聖杯侍衛",
     "img": "https://i.imgur.com/DcoM6RE.png",
-    "description": "敞開心與人真誠的交流。"
+    "description": "今天試著真的聽一個人說話，不要只是等自己說話的空檔。"
   },
   {
     "name": "聖杯騎士",
     "img": "https://i.imgur.com/cyL8H4g.png",
-    "description": "真誠的付出，把心交付出去。"
+    "description": "把心意說出來，對方沒辦法讀心術，你不說，他們真的不會知道。"
   },
   {
     "name": "聖杯皇后",
     "img": "https://i.imgur.com/pUnYaVL.png",
-    "description": "用智慧與愛跟耐心包容。"
+    "description": "有些事需要的不是解決方案，只是有人陪著，今天你可以是那個人。"
   },
   {
     "name": "聖杯國王",
     "img": "https://i.imgur.com/zSw1Li7.png",
-    "description": "現在可以用成熟理性的愛去支持他人。"
+    "description": "用成熟一點的方式去愛，不是壓抑，而是穩穩地在那裡，不亂。"
   },
   {
     "name": "金幣侍衛",
     "img": "https://i.imgur.com/QpXe4v9.png",
-    "description": "腳踏實地，一步一腳印，務實地學習。"
+    "description": "踏實比聰明更可靠，今天專注把一件事做好，不要分心想十件。"
   },
   {
     "name": "金幣騎士",
     "img": "https://i.imgur.com/ppIn8sU.png",
-    "description": "穩定踏實，要專注目標，不要衝動。"
+    "description": "穩定前進，不用跟任何人比速度，到終點才是重點。"
   },
   {
     "name": "金幣皇后",
     "img": "https://i.imgur.com/AIIJJhg.png",
-    "description": "耐心細心做好方方面面的規劃。"
+    "description": "把細節照顧好，那些看起來不重要的小地方，往往決定最後的結果。"
   },
   {
     "name": "金幣國王",
     "img": "https://i.imgur.com/BSdU0Cg.png",
-    "description": "沉穩務實理性的精算，給需要的，不是給想要的。"
+    "description": "給需要的，不是給想要的，今天做決定前先問自己這個問題。"
   },
   {
     "name": "愚者",
     "img": "https://i.imgur.com/SPTJ7hg.png",
-    "description": "帶著遊戲般的心情去經歷一切，會有意想不到的收穫。"
+    "description": "別想太多，今天就帶著一點傻氣出發，很多事走了才知道。"
   },
   {
     "name": "魔術師",
     "img": "https://i.imgur.com/I9VvNcz.png",
-    "description": "你已經萬事俱足，今天是好好展現自信的時候。"
+    "description": "你需要的工具其實都已經在手邊了，問題不是缺什麼，是敢不敢用。"
   },
   {
     "name": "女祭司",
     "img": "https://i.imgur.com/ODbPg4G.png",
-    "description": "相信自己內心的直覺與感受，冷靜耐心應對眼前的現狀。"
+    "description": "外面的聲音太多，今天多聽一點自己內心的，它比你以為的更清醒。"
   },
   {
     "name": "皇后",
     "img": "https://i.imgur.com/okOPLP9.png",
-    "description": "今天好好打扮自己，用智慧與美麗與人相處，可以克服一切事物。"
+    "description": "好好照顧自己的狀態，一個養好自己的人，才能讓周圍的一切也跟著變好。"
   },
   {
     "name": "國王",
     "img": "https://i.imgur.com/29d52In.png",
-    "description": "把耐心負責的成熟能量展現出來，將是你最大的魅力。"
+    "description": "負責任不是在表演，是真的把該做的事做好，今天就展現這個。"
   },
   {
     "name": "教皇",
     "img": "https://i.imgur.com/oT7LGYY.png",
-    "description": "可以跟你的信仰、宗教或前輩連結，並祈求他的智慧與協助。"
+    "description": "有些問題不用自己硬解，去請教一個你真正信任的人，智慧不用從零開始累積。"
   },
   {
     "name": "戀人",
     "img": "https://i.imgur.com/Lf8ddkB.png",
-    "description": "帶著喜悅的心情，好好去經歷今天一切的美好。"
+    "description": "今天去做一件讓你發自內心開心的事，不需要理由，開心本身就是理由。"
   },
   {
     "name": "戰車",
     "img": "https://i.imgur.com/v7mNNRV.png",
-    "description": "設定目標，使命必達，堅持到最後不要放棄，最終可以達成。"
+    "description": "設好目標，然後不管外面怎麼吵，你就往那個方向走，不要讓人帶歪。"
   },
   {
     "name": "力量",
     "img": "https://i.imgur.com/XBEPdCd.png",
-    "description": "以柔才能克剛，唯有展現柔性能量才能掌握全局。"
+    "description": "硬碰硬不一定贏，今天試試用柔軟的方式處理，反而可能更有力。"
   },
   {
     "name": "隱者",
     "img": "https://i.imgur.com/RxXJEmk.png",
-    "description": "傾聽內心的聲音，智慧之聲，答案就在你的心中。"
+    "description": "答案已經在你心裡了，今天給自己一點安靜，讓它浮出來。"
   },
   {
     "name": "命運之輪",
     "img": "https://i.imgur.com/jfJI31R.png",
-    "description": "順著流走，所有的經歷用正面的態度去看，都是成長的養分。"
+    "description": "不管今天發生什麼，都可以找到一個對你有用的角度，這是真的。"
   },
   {
     "name": "正義",
     "img": "https://i.imgur.com/9ON1bU8.png",
-    "description": "做決定之前，要衡量一切的利弊，公平公正地做出選擇。"
+    "description": "做決定前把利弊攤開來看，不要只看對自己方便的那一面。"
   },
   {
     "name": "倒吊人",
     "img": "https://i.imgur.com/nc3Vok4.png",
-    "description": "臣服於目前停滯的狀況，從不同的角度看事情，會有意想不到的覺察。"
+    "description": "事情卡住的時候，試著換個角度看，有時候「繞路」反而是捷徑。"
   },
   {
     "name": "死神",
     "img": "https://i.imgur.com/P9ehe8X.png",
-    "description": "揮別過去的作法，才會有新的結果。"
+    "description": "繼續做一樣的事只會得到一樣的結果，放掉舊的，新的才有地方進來。"
   },
   {
     "name": "節制",
     "img": "https://i.imgur.com/Dx8oLgn.png",
-    "description": "透過新的學習，加上過去的經驗，能創造出新的方法"
+    "description": "把你學到的和你經歷的加在一起，你會發現自己比昨天多了一個方法。"
   },
   {
     "name": "魔鬼",
     "img": "https://i.imgur.com/fmxnYYJ.png",
-    "description": "避免掉入物質或金錢的誘惑。"
+    "description": "那個讓你一直分心的東西，值得你認真問一下自己：它到底在滿足你什麼？"
   },
   {
     "name": "塔",
     "img": "https://i.imgur.com/32zJT1Q.png",
-    "description": "面對突發的狀況，保持冷靜移除舊有的框架，才有新的開始。"
+    "description": "突然打亂的計畫不一定是壞事，舊的架構倒了，才有空間蓋新的。"
   },
   {
     "name": "星星",
     "img": "https://i.imgur.com/6tU1xsD.png",
-    "description": "帶著單純純粹的心，去信任現在的狀態。"
+    "description": "不用想太複雜，今天就是帶著一點信任往前走，有些事交給時間就好。"
   },
   {
     "name": "太陽",
     "img": "https://i.imgur.com/uHpzjYr.png",
-    "description": "走出門曬曬太陽，用陽光淨化一切不便，可以觀想一道光去除穢氣。"
+    "description": "出門曬一下太陽，讓光照進來，身體舒服了，很多事會自動想通。"
   },
   {
     "name": "月亮",
     "img": "https://i.imgur.com/XCG5pX9.png",
-    "description": "認真看待內心的隱憂，該是正視問題的時刻了。"
+    "description": "那個一直迴避的問題，今天可以試著正視它，它沒有你想的那麼可怕。"
   },
   {
     "name": "審判",
     "img": "https://i.imgur.com/NROeL0I.png",
-    "description": "放下過去一切，展望未來，用新的思維去面對新的開始。"
+    "description": "過去的已經過去了，今天起可以用新的方式對待自己，真的可以重來。"
   },
   {
     "name": "世界",
     "img": "https://i.imgur.com/zt7i1ie.png",
-    "description": "所有的美好經歷都經驗過了，好好感謝，我們將往下一個旅程前進。"
+    "description": "你走到這一步不容易，先停下來感謝一下自己，然後準備好迎接下一段。"
   }
 ];
