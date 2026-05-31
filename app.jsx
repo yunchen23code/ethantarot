@@ -271,7 +271,7 @@ function HistoryDrawer({ open, onClose, history, onClear }) {
   return (
     <div className={`history-drawer ${open ? 'is-open' : ''}`}>
       <div className="history-head">
-        <h3>CHRONICLE · 紀錄</h3>
+        <h3>RECORD · 紀錄</h3>
         <button className="icon-btn" onClick={onClose} aria-label="close">CLOSE</button>
       </div>
       {history.length === 0 ? (
@@ -400,7 +400,7 @@ function App() {
 
       <header className="app-header">
         <div className="brand">
-          <div className="brand-eyebrow">Arcanum Cotidianum · MMXXVI</div>
+          <div className="brand-eyebrow">TAROT 2026</div>
           <h1 className="brand-title">TAROT</h1>
           <div className="brand-zh">每 日 一 牌</div>
           {tweaks.ornament > 0.4 && (
@@ -412,7 +412,7 @@ function App() {
             {tweaks.soundOn ? '♪ SOUND' : '♪̸ MUTED'}
           </button>
           <button className="icon-btn" onClick={() => setShowHistory(true)} aria-label="history">
-            ✶ CHRONICLE
+            ✶ RECORD
           </button>
         </div>
       </header>
